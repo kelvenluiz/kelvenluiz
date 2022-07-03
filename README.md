@@ -1,6 +1,6 @@
 # Kelven Luiz 
 
-Desenvolvedor @Full Stack 💙🚀
+Desenvolvedor @Full Stack,
 
 [![Linkedin Badge](https://img.shields.io/badge/-kelvenbr@gmail.com-3F5D7D?style=for-the-badge&logo=gmail)](mailto:kelvenbr@gmail.com) 
 [![Gmail Badge](https://img.shields.io/badge/-linkedin.com/in/kelvenluiz-3F5D7D?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kelvenluiz/)
